@@ -1,0 +1,31 @@
+{
+  "name": "Supermeet Brazil Series 2024",
+  "symbol": "SMBR",
+  "description": "Proof of Presence NFT por comparecer aos eventos do Primeiro Roadshow de SuperMeets no Brasil! Essa coleção não deve ser especulada ou negociada. Fornecimento limitado - powered by Genin.",
+  "seller_fee_basis_points": 0,
+  "image": "https://nftstorage.link/ipfs/bafybeif5i2gwgkzxvvj5zogo2wbl46u54bctnvgukmb3p57a24ofevw5xa",
+  "collection": {
+    "name": "Supermeet Brazil Series 2024",
+    "family": "popNFT"
+  },
+  "external_url": "https://superteam.com.br",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeif5i2gwgkzxvvj5zogo2wbl46u54bctnvgukmb3p57a24ofevw5xa",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://nftstorage.link/ipfs/bafybeidpelx3rom4wvrlzr62urajbd5wdufpzkyyltiqu6zqe6jvgv2fhi",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "gninxhrX4CmbfrrmaW3Grb3S5DqFG7uPyV9GU1RUvi9",
+        "share": 100
+      }
+    ]
+  }
+}
