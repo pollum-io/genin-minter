@@ -44,9 +44,7 @@ export default function Page() {
     // generate the SolanaPay QR code
     const solanaPayQr = createQR(
       // encode the url with the desired params
-      encodeURL({
-        link: new URL(apiUrl),
-      }),
+      qrLink,
       // set the svg image size
       QR_CODE_SIZE,
       // background color
