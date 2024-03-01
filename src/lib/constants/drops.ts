@@ -108,7 +108,7 @@ export const STATIC_NFT_ITEMS: Record<string, MintableNFTDetails> = {
     metadataUri:
       "https://bafkreiafruwdve5xk4fyxmlhbbciyzpugujftzxu4sgcvoosvgu5djhr6e.ipfs.nftstorage.link/",
     metadata: {
-      name: bh.name,
+      name: "Supermeet - Belo Horizonte",
       external_url: bh.external_url,
       description: bh.description,
       image: bh.image,
