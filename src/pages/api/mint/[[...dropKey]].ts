@@ -162,7 +162,7 @@ export default async function handler(
     const transaction = await buildMintCompressedNftTransaction({
       connection,
       // note: to have your app pay the fee, set this to `SOLANA_KEYPAIR.publicKey`,
-      // feePayer: userAccount,
+      feePayer: userAccount,
 
       treeAddress: new PublicKey(COLLECTION_DETAILS.treeAddress),
       nftOwner: userAccount,
