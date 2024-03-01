@@ -29,7 +29,7 @@ export default function Page() {
   useEffect(() => {
     // make the site root the mint url
     const { location } = window;
-    const apiUrl = `${location.protocol}//${location.host}/api/mint?event=${event}`;
+    const apiUrl = `${location.protocol}//${location.host}/api/mint`;
     const encodedURL = encodeURL({
       link: new URL(apiUrl),
     });
@@ -44,7 +44,9 @@ export default function Page() {
     // generate the SolanaPay QR code
     const solanaPayQr = createQR(
       // encode the url with the desired params
-      qrLink,
+      encodeURL({
+        link: new URL(apiUrl),
+      }),
       // set the svg image size
       QR_CODE_SIZE,
       // background color
