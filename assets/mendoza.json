@@ -1,0 +1,45 @@
+{
+    "name": "Supermeet",
+    "symbol": "SMAR",
+    "description": "¡Estuviste presente en el primer Supermeet realizado en Mendoza! Gracias por ser parte de la comunidad Superteam en Argentina, aproveche Solana y potencie su comunidad web3 local.",
+    "seller_fee_basis_points": 0,
+    "image": "https://nftstorage.link/ipfs/bafybeifoopqzjxb74ailk5rd32vn53gbchbgtmyexyrphtoq3swevn6fey",
+    "collection": {
+        "name": "Supermeet Brazil Series 2024",
+        "family": "popNFT"
+    },
+    "external_url": "https://superteam.com.br",
+    "properties": {
+        "attributes": [
+            {
+                "trait_type": "Local",
+                "value": "Mendoza - Argentina"
+            },
+            {
+                "trait_type": "Data",
+                "value": "28/02/2024"
+            },
+            {
+                "trait_type": "Tipo",
+                "value": "Proof-Of-Presence"
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeifoopqzjxb74ailk5rd32vn53gbchbgtmyexyrphtoq3swevn6fey",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeifoopqzjxb74ailk5rd32vn53gbchbgtmyexyrphtoq3swevn6fey",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "gninxhrX4CmbfrrmaW3Grb3S5DqFG7uPyV9GU1RUvi9",
+                "share": 100
+            }
+        ]
+    }
+}

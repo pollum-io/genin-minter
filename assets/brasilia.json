@@ -1,0 +1,45 @@
+{
+    "name": "Supermeet",
+    "symbol": "SMBR",
+    "description": "Você marcou presença no primeiro Supermeet realizado em Brasília! Agradecemos por fazer parte da comunidade Superteam no Brasil, construa na Solana e empodere sua comunidade local web3.",
+    "seller_fee_basis_points": 0,
+    "image": "https://nftstorage.link/ipfs/bafybeicytvjsmc5l5mjw6dw25xk2q26j4csdt2z2cop3z5ykkpqsmcjrfq",
+    "collection": {
+        "name": "Supermeet Brazil Series 2024",
+        "family": "popNFT"
+    },
+    "external_url": "https://superteam.com.br",
+    "properties": {
+        "attributes": [
+            {
+                "trait_type": "Local",
+                "value": "Brasília - DF"
+            },
+            {
+                "trait_type": "Data",
+                "value": "19/03/2024"
+            },
+            {
+                "trait_type": "Tipo",
+                "value": "Proof-Of-Presence"
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeicytvjsmc5l5mjw6dw25xk2q26j4csdt2z2cop3z5ykkpqsmcjrfq",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeicytvjsmc5l5mjw6dw25xk2q26j4csdt2z2cop3z5ykkpqsmcjrfq",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "gninxhrX4CmbfrrmaW3Grb3S5DqFG7uPyV9GU1RUvi9",
+                "share": 100
+            }
+        ]
+    }
+}
