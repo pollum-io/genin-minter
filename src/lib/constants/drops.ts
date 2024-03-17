@@ -6,6 +6,8 @@ import { SITE_DESCRIPTION, SITE_URL, TWITTER } from "./general";
 import bh from "../../../assets/bh.json";
 import recife from "../../../assets/recife.json";
 import vitoria from "../../../assets/vitoria.json";
+import brasilia from "../../../assets/brasilia.json";
+import mendoza from "../../../assets/mendoza.json";
 
 /**
  * Type for the statically defined NFT details
@@ -123,7 +125,7 @@ export const STATIC_NFT_ITEMS: Record<string, MintableNFTDetails> = {
   },
   recife: {
     metadataUri:
-      "https://bafkreiafruwdve5xk4fyxmlhbbciyzpugujftzxu4sgcvoosvgu5djhr6e.ipfs.nftstorage.link/",
+      "https://bafkreiexrsov264lo3oinxwy6o7vgn64k2fvyo6k2jx4tl3zbzhxmun37e.ipfs.nftstorage.link/",
     metadata: {
       name: recife.name,
       external_url: recife.external_url,
@@ -140,7 +142,7 @@ export const STATIC_NFT_ITEMS: Record<string, MintableNFTDetails> = {
   },
   vitoria: {
     metadataUri:
-      "https://bafkreiafruwdve5xk4fyxmlhbbciyzpugujftzxu4sgcvoosvgu5djhr6e.ipfs.nftstorage.link/",
+      "https://bafkreibh336wjupcnlaxo4icgduil3xfpkv36rguvwjd3a3odqd5lzkhlu.ipfs.nftstorage.link/",
     metadata: {
       name: vitoria.name,
       external_url: vitoria.external_url,
@@ -153,6 +155,40 @@ export const STATIC_NFT_ITEMS: Record<string, MintableNFTDetails> = {
         creators: vitoria.properties.creators as any,
       },
       attributes: vitoria.properties.attributes as any,
+    },
+  },
+  brasilia: {
+    metadataUri:
+      "https://bafkreifxcawaohbykjj66exyi7auyxl6mxdgv2kmpqbjlpqwf25prj3yuu.ipfs.nftstorage.link/",
+    metadata: {
+      name: brasilia.name,
+      external_url: brasilia.external_url,
+      description: brasilia.description,
+      image: brasilia.image,
+      symbol: brasilia.symbol,
+      properties: {
+        files: brasilia.properties.files as any,
+        category: brasilia.properties.category as any,
+        creators: brasilia.properties.creators as any,
+      },
+      attributes: brasilia.properties.attributes as any,
+    },
+  },
+  mendoza: {
+    metadataUri:
+      "https://bafkreidj3zvz4nkvzyyn3lfrlq2gblauglfnjsfawdj3g3mbdernutbd7m.ipfs.nftstorage.link/",
+    metadata: {
+      name: mendoza.name,
+      external_url: mendoza.external_url,
+      description: mendoza.description,
+      image: mendoza.image,
+      symbol: mendoza.symbol,
+      properties: {
+        files: mendoza.properties.files as any,
+        category: mendoza.properties.category as any,
+        creators: mendoza.properties.creators as any,
+      },
+      attributes: mendoza.properties.attributes as any,
     },
   },
 };

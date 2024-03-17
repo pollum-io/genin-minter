@@ -1,9 +1,9 @@
 {
   "name": "Supermeet",
   "symbol": "SMBR",
-  "description": "Você marcou presença no primeiro Supermeet realizado em Belo Horizonte! Agradecemos por fazer parte da comunidade Superteam no Brasil, construa na Solana e empodere sua comunidade local web3.",
+  "description": "Você marcou presença no primeiro Supermeet realizado em Brasília! Agradecemos por fazer parte da comunidade Superteam no Brasil, construa na Solana e empodere sua comunidade local web3.",
   "seller_fee_basis_points": 0,
-  "image": "https://nftstorage.link/ipfs/bafybeiekm646p3ercr3m2tjetkgpjost5mpbawx37xa4yo7d7qfyv7pcqy",
+  "image": "https://nftstorage.link/ipfs/bafybeieerh5tyjnzinta7xfmzy2rwdlipcj2n4yeemupejak5vxm3sepia",
   "collection": {
     "name": "Supermeet Brazil Series 2024",
     "family": "popNFT"
@@ -12,25 +12,25 @@
   "properties": {
     "attributes": [
       {
-        "trait_type": "LOCAL",
-        "value": "Belo Horizonte - MG"
+        "trait_type": "Local",
+        "value": "Recife - PE"
       },
       {
-        "trait_type": "DATA",
-        "value": "01/03/2024"
+        "trait_type": "Data",
+        "value": "28/02/2024"
       },
       {
-        "trait_type": "TIPO",
+        "trait_type": "Tipo",
         "value": "Proof-Of-Presence"
       }
     ],
     "files": [
       {
-        "uri": "https://nftstorage.link/ipfs/bafybeiekm646p3ercr3m2tjetkgpjost5mpbawx37xa4yo7d7qfyv7pcqy",
+        "uri": "https://nftstorage.link/ipfs/bafybeieerh5tyjnzinta7xfmzy2rwdlipcj2n4yeemupejak5vxm3sepia",
         "type": "image/png"
       },
       {
-        "uri": "https://nftstorage.link/ipfs/bafybeigoz24horxcvei56tvqezhhgqorpguqntekvv4ju6ivn34noxr3ga",
+        "uri": "https://nftstorage.link/ipfs/bafybeieerh5tyjnzinta7xfmzy2rwdlipcj2n4yeemupejak5vxm3sepia",
         "type": "image/png"
       }
     ],
